@@ -86,7 +86,7 @@ function createMail( id){
     let trash = document.createElement("button");
     trash.style.position = "relative";
     let img = document.createElement("img");
-    img.setAttribute("src", "trash-100.png");
+    img.setAttribute("src", "https://icons8.com/icon/9zsHFzY89mt4/trash");
     img.style.position = "absolute";
     img.style.maxHeight = "100%" ;
     img.style.right = 0;
